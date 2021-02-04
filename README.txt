@@ -9,7 +9,7 @@ SUBSCRIBE:https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
 python 2.7.15 works best
 
 ====================================================|
-git clone https://github.com/EH30/byte-ddos         |
+git clone https://github.com/bimbelku/byte-ddos         |
 cd byte-ddos                                        |
 python byte-ddos.py                                 |
 ====================================================|

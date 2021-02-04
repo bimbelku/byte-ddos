@@ -18,9 +18,10 @@ from sys import platform
 
 
 """
-Created By: TheTechHacker
+Modified By: P4NP4N-SL4CK-B0T
+Author Script: TheTechHacker
 ==========================
-SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+SUBSCRIBE PEMBUAT SCRIPT : https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
 
 """
 
@@ -46,7 +47,7 @@ print """
   
   
 =======================================
-     Created By: TheTechHacker
+     Modified By: P4NP4N-SL4CK
 =======================================
 If You Use too much bytes 
 You're Internet might get a bit slow
